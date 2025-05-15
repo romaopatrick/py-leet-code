@@ -7,7 +7,7 @@
 #### Graphs:
 
 0. Clone Graph: https://leetcode.com/problems/clone-graph/description/
-1. Course Schedule: https://lnkd.in/de8Q3NBS
+1. Course Schedule: https://leetcode.com/problems/course-schedule/
 2. 01 Matrix: https://lnkd.in/dV2P2TEs
 3. Number of Islands: https://lnkd.in/drT2MpTz
 4. Rotting Oranges: https://lnkd.in/dUQVwJ-d

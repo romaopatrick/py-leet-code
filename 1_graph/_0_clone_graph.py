@@ -12,14 +12,14 @@ class Solution:
 
         visited = {}
 
-        def dfs(n):
+        def copy(n):
             if n in visited:
                 return visited[n]
             
             clone = Node(n.val)
             visited[n] = clone
             for neighbor in n.neighbors:
-                clone.neighbors.append(dfs(neighbor))
+                clone.neighbors.append(copy(neighbor))
             return clone
 
-        return dfs(node)
+        return copy(node)
