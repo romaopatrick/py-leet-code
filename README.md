@@ -10,7 +10,8 @@
 1. Course Schedule: https://leetcode.com/problems/course-schedule/description
 2. 01 Matrix: https://leetcode.com/problems/01-matrix/description/
 3. Number of Islands: https://leetcode.com/problems/number-of-islands/description/
-4. Rotting Oranges: https://leetcode.com/problems/rotting-oranges/description/
+4. Rotting Oranges: https://leetcode.com/problems/rotting-oranges/description/ 
+    ^too hard^
 
 
 #### Arrays:
